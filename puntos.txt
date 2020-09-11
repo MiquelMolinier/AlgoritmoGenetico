@@ -1,0 +1,15 @@
+Título del Trabajo 
+Nombre(s) y apellidos 
+1. Introducción 
+1.1 Definición del problema 
+1.2 Objetivo del trabajo 
+1.3 Importancia del tema 
+2. Representación cromosómica 
+3. Definición de la función fitness 
+4. Operadores de cruzamiento y mutación 
+5. Método de selección 
+6. Generación de la población inicial 
+7. Desarrollo en Python 
+8. Corridas del programa (4 corridas) 
+9. Conclusiones 
+10. Referencias. 
